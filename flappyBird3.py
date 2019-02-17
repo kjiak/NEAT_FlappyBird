@@ -269,7 +269,7 @@ pop = neat.Population(config)
 stats = neat.StatisticsReporter()
 pop.add_reporter(stats)
 
-winner = pop.run(eval_genomes, 1)
+winner = pop.run(eval_genomes, 30)
 
 print('The evaluation is: ')
 print(winner)

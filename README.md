@@ -6,6 +6,8 @@ The game was designed using the pygame library while NEAT was implemented using 
 The NEAT algorithm is implemented using the NEAT-Python package. Ensure that the package is installed before running 
 any of the codes.
 
+![ScreenShot](https://camo.githubusercontent.com/7ca05347cd8065280093d590795a750b2b58ab01/68747470733a2f2f692e6962622e636f2f4e46727837644b2f4e4541542e706e67)
+
 ### Files
 
 | File                      | Description

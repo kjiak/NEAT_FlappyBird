@@ -17,4 +17,3 @@ any of the codes.
 
 # Credits
 https://github.com/rsk2327/NEAT_FlappyBird
-
